@@ -1,0 +1,25 @@
+# Web framework
+streamlit
+
+# Environment variable management
+python-dotenv
+
+# Web scraping
+beautifulsoup4
+requests
+
+# URL parsing and robots.txt compliance
+urllib3
+html5lib
+lxml
+
+# LangChain & LLMs
+langchain
+langchain-openai
+openai
+
+# Typing and utils
+typing-extensions
+tqdm
+
+

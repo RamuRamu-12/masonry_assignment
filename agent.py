@@ -192,7 +192,7 @@ keyword_extractor_prompt = PromptTemplate(
     input_variables=["content"],
     template="""
 Extract the top 10 high-value keywords or topics from the content below. Output as a comma-separated list:
-
+display the {content} also in the output.
 {content}
 """
 )
